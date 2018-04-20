@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/vyigrat_bg.qm</file>
+        <file alias="ca">locale/vyigrat_ca.qm</file>
+        <file alias="cs">locale/vyigrat_cs.qm</file>
+        <file alias="da">locale/vyigrat_da.qm</file>
+        <file alias="de">locale/vyigrat_de.qm</file>
+        <file alias="en">locale/vyigrat_en.qm</file>
+        <file alias="en_US">locale/vyigrat_en_US.qm</file>
+        <file alias="es">locale/vyigrat_es.qm</file>
+        <file alias="fi">locale/vyigrat_fi.qm</file>
+        <file alias="fr_FR">locale/vyigrat_fr_FR.qm</file>
+        <file alias="hr">locale/vyigrat_hr.qm</file>
+        <file alias="it">locale/vyigrat_it.qm</file>
+        <file alias="ja">locale/vyigrat_ja.qm</file>
+        <file alias="ko_KR">locale/vyigrat_ko_KR.qm</file>
+        <file alias="nl">locale/vyigrat_nl.qm</file>
+        <file alias="pl">locale/vyigrat_pl.qm</file>
+        <file alias="pt">locale/vyigrat_pt.qm</file>
+        <file alias="pt_BR">locale/vyigrat_pt_BR.qm</file>
+        <file alias="ro_RO">locale/vyigrat_ro_RO.qm</file>
+        <file alias="ru">locale/vyigrat_ru.qm</file>
+        <file alias="sk">locale/vyigrat_sk.qm</file>
+        <file alias="sv">locale/vyigrat_sv.qm</file>
+        <file alias="tr">locale/vyigrat_tr.qm</file>
+        <file alias="uk">locale/vyigrat_uk.qm</file>
+        <file alias="zh_CN">locale/vyigrat_zh_CN.qm</file>
+        <file alias="zh_TW">locale/vyigrat_zh_TW.qm</file>
+    </qresource>
+</RCC>
