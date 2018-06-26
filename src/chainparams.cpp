@@ -117,7 +117,7 @@ public:
         nTargetSpacing = 1 * 60;  // Vyigrat: 60 Seconds
         nMaturity = 80;
         nMasternodeCountDrift = 20;
-        nMaxMoneyOut = 50000000 * COIN;
+        nMaxMoneyOut = 210000000 * COIN;
 
         /** Height or Time Based Activations **/
         nLastPOWBlock = 200;
